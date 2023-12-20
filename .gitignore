@@ -1,0 +1,5 @@
+.idea/
+build/
+bin/
+obj/
+*.sln.DotSettings.user
