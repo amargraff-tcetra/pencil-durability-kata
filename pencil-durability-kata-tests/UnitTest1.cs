@@ -14,5 +14,5 @@ public class Tests
     {
         var example = new Class1();
         Assert.AreEqual("Hello World", example.getGreeting());
-    }
+    }    
 }
