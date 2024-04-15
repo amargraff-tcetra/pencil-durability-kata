@@ -9,5 +9,10 @@ namespace pencil_durability_kata
     public class Paper
     {
         public string Text { get; set; } = string.Empty;
+
+        public string Read()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
